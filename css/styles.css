@@ -1,6 +1,9 @@
 
 body {
-  background: #d3d3d3
+  background: #d3d3d3;
+  font-family: Fantasy;
+  font-size: 24px;
+
 }
 h1 {
   background: #cc99ff;
