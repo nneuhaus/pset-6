@@ -28,7 +28,7 @@ h1 {
 }
 
 
-ul.todo#todo:empty:after {
+ul.todo.table:empty:after {
   content: 'You have nothing to-do!';
   margin: 15px 0 0 0;
 }
