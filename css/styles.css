@@ -3,8 +3,8 @@ body {
   background: #d3d3d3;
   font-family: Fantasy;
   font-size: 24px;
-
 }
+
 h1 {
   background: #cc99ff;
   border-bottom-right-radius: 5px;
@@ -23,6 +23,11 @@ h1 {
 h3 {
   color:#6a0dad;
   }
+#addButton {
+  background-color: #b19cd9;
+  font-family: monospace;
+}
+
   /*.container {
   width: 100%;
   float: left;
