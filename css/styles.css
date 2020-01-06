@@ -1,8 +1,9 @@
 
 body {
-  background: #d3d3d3;
+  background: #cfcac2;
   font-family: Fantasy;
   font-size: 24px;
+  color: #7851a9;
 }
 
 h1 {
@@ -20,9 +21,7 @@ h1 {
   background:#d3d3d3
 }
 
-h3 {
-  color:#6a0dad;
-  }
+
 #addButton {
   background-color: #b19cd9;
   font-family: Serif;
